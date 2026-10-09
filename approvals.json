@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "tag": "v0.5.1",
       "sha256": "3adaf99b1c28756b22fbdf1e1554e8b7e0a39ab2f4b132c81197d7307ba311c0"
+    },
+    {
+      "kind": "app",
+      "id": "voiceloop",
+      "tag": "v2.1",
+      "sha256": "571208eb4132d1e0f8b06dcedcf83f9b3b80a532453431f95ed1082d517fb408"
     }
   ]
 }
