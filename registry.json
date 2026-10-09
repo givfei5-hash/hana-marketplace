@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "repository": "hayou2002/hana-vibecoding",
       "publisher": "hayou2002"
+    },
+    {
+      "kind": "app",
+      "id": "voiceloop",
+      "repository": "givfei5-hash/openhanako-voiceloop-app",
+      "publisher": "givfei5-hash"
     }
   ]
 }
