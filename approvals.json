@@ -136,8 +136,8 @@
     {
       "kind": "app",
       "id": "voiceloop",
-      "tag": "v2.2",
-      "sha256": "f2bd2746f59e3fe891646a4eb5c418d7b00acfdbdbe69285d8dbd5eed072ee4a"
+      "tag": "v2.2.1",
+      "sha256": "3965646639ce74e0b0a94dbe5a68e1a59be302f476651fe99e4d9b811f038851"
     }
   ]
 }
